@@ -27,3 +27,24 @@ footer{
     margin-bottom: 5em !important;
 
 }
+
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important; 
+}
+
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+
+.card p{
+    text-align: justify !important;
+}
+
+.card h4{
+    color: firebrick !important;
+    text-align: center !important;
+}
