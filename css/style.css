@@ -48,3 +48,13 @@ footer{
     color: firebrick !important;
     text-align: center !important;
 }
+
+.sec-contatos{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.row{
+    max-width: 200% !important;
+}
