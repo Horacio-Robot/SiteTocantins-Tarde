@@ -55,6 +55,16 @@ footer{
     margin-right: 10% !important;
 }
 
-.row{
+img{
     max-width: 200% !important;
+    margin-right: 10;
+}
+.links {
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.mapa{
+    margin-top: 5%!important;
 }
